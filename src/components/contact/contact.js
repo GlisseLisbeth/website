@@ -10,7 +10,7 @@ class Contact extends Component {
         <section id="contact">
           <div className="row narrow section-intro with-bottom-sep animate-this">
             <div className="col-twelve">
-              <h3>Contactáme</h3>
+              <h3>Contáctame</h3>
             </div>
           </div>
           <div className="row contact-content">
