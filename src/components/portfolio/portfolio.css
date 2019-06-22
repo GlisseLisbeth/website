@@ -268,8 +268,25 @@
   }
 
   .bricks-wrapper .item-wrap .item-text .folio-title {
-    font-size: 2rem;
+    font-size: 1.3rem;
     line-height: 1.5;
+  }
+
+  .bricks-wrapper .item-wrap .overlay::before {
+    opacity: 1;
+    visibility: visible;
+    height: 100px;
+  }
+
+  .bricks-wrapper .item-wrap .item-text, .bricks-wrapper .item-wrap .details-link {
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    transition: none;
+  }
+
+  .bricks-wrapper .item-wrap .link-code {
+    display: none;
   }
 }
 @media only screen and (max-width: 375px) {
