@@ -58,11 +58,22 @@ class Portfolio extends Component {
                           </a>
                           <a
                             href={item.link}
-                            className="details-link"
-                            title="details"
+                            className="details-link link-demo"
+                            title="link"
                           >
                             <i className="icon-link"></i>
                           </a>
+                          {item.production && (
+                            <Fragment>
+                              <a
+                                href={item.code}
+                                className="details-link link-code"
+                                title="code"
+                              >
+                                <i className="icon-list"></i>
+                              </a>
+                            </Fragment>
+                          )}
                         </div>
 
                         <div id={item.num} className="hide">
