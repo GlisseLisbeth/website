@@ -1,8 +1,8 @@
 {
-  "name": "glisselisbeth.github.io",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://glisselisbeth.github.io/",
+  "homepage": "https://glisselisbeth.github.io/website",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "jquery": "^3.4.1",
