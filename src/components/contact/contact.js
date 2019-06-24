@@ -18,11 +18,6 @@ class Contact extends Component {
               <h5>Mi información</h5>
 
               <div className="cinfo">
-                <h6>Dónde me encuentras</h6>
-                <p>{data.address}</p>
-              </div>
-
-              <div className="cinfo">
                 <h6>Envíeme un email a</h6>
                 <p>{data.email}</p>
                 <p>{data.email2}</p>
