@@ -64,7 +64,6 @@ class Portfolio extends Component {
                             <i className="icon-link"></i>
                           </a>
                         </div>
-
                         <div id={item.num} className="hide">
                           <h4>{item.title}</h4>
                           <p>
