@@ -3,13 +3,10 @@ const data = {
   name: 'Glisse Jorge',
   role: [
     {
-      name: 'Frontend Developer'
+      name: 'Full Stack Developer'
     },
     {
-      name: 'Backend Developer'
-    },
-    {
-      name: 'Bachiller en Ingeniería de Sistemas'
+      name: 'Ingeniera de Sistemas'
     }
   ],
   study: [
@@ -36,17 +33,13 @@ const data = {
     },
     {
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/glisselisbeth/',
+      url: 'https://www.linkedin.com/in/glissejorge/',
       className: 'fa fa-linkedin-square'
     }
   ],
   aboutme:
     'Una de mis experiencias en el área de desarrollo web y de aplicaciones, es que con cada línea de código, me esfuerzo por hacer de la web y la aplicación un lugar hermoso y con la mejor experiencia del usuario. Trabajar con un equipo multidisciplinario y bajo los enfoques de metodologías ágiles. Siempre estuve interesada en las diferentes tecnologías y los códigos.',
-  address:
-    'Mz. P4 Lote 16 Ampliación 1 12 de noviembre Pamplona Alta, San Juan de Miraflores',
-  website: 'https://www.glisse.co',
-  email: 'glisselisbeth@gmail.com',
-  email2: 'glisselisbeth@outlook.com',
+  email: 'glissejorge@gmail.com',
   education: [
     {
       UniversityName: 'Universidad Nacional San Cristóbal de Huamanga',
@@ -59,7 +52,7 @@ const data = {
       YearOfPassing: '2017'
     }
   ],
-  skillTitle: 'Mis habilidades',
+  skillTitle: 'Mis habilidades tecnológicas',
   skillDescription:
     'Activamente en un continuo aprendizaje exponencial y la responsabilidad de hacerlo.',
   skills: [
@@ -96,8 +89,8 @@ const data = {
       imgName: 'ts'
     },
     {
-      skillName: 'Angular',
-      imgName: 'angular'
+      skillName: 'Python',
+      imgName: 'python'
     },
     {
       skillName: 'Git',

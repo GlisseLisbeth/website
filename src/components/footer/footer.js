@@ -30,9 +30,7 @@ class Footer extends Component {
             <div className="row">
               <div className="col-twelve">
                 <div className="copyright">
-                  <span>
-                    © Copyright <a href="https://www.glisse.co">Dev Glisse</a>
-                  </span>
+                  <span>© Copyright Dev Glisse</span>
                   <span>
                     Template de{' '}
                     <a href="https://www.styleshout.com/infinity-clean-modern-template-for-creatives-and-agencies/">
@@ -41,10 +39,10 @@ class Footer extends Component {
                   </span>
                   <span>
                     Design de{' '}
-                    <a href="http://www.styleshout.com/">styleshout</a>
+                    <a href="http://www.styleshout.com/">Styleshout</a>
                   </span>
                   <span>
-                    Hecho en <a href="https://reactjs.org">reactJS</a>
+                    Hecho en <a href="https://reactjs.org">ReactJS</a>
                   </span>
                 </div>
               </div>

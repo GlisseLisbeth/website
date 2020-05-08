@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import $ from 'jquery';
-import cv from '../../CV-GLISSELISBETH.pdf';
+import cv from '../../CV_GlisseJorge.pdf';
 import './home.css';
 
 class Home extends Component {
